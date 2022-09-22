@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Rafly Pradana Putra and you can call me Rafly. I'm a Software Developer with expertise in Frontend Development, especially Frontend Web Development using React.
+I'm currently learning to dive deeper into React and its various frameworks.
+
+### :mailbox: You can Reach Me on:
+- Email : raflypradana31@gmail.com
+- LinkedIn : [Rafly Pradana Putra](https://www.linkedin.com/in/rafly-pradana-putra/)
+- Instagram : [@raflynatra](https://www.instagram.com/raflynatra)
+
+### ⚡ Fun fact:
+- You can discuss with me about anything related to computer accessories, like Mechanical Keyboards.
 <!--
 **raflyprdn/raflyprdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
