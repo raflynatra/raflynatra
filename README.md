@@ -9,7 +9,7 @@ I'm currently learning to dive deeper into React and its various frameworks.
 - Instagram : [@raflynatra](https://www.instagram.com/raflynatra)
 
 ### ⚡ Fun fact:
-- You can discuss with me about anything related to computer accessories, like Mechanical Keyboards.
+- You can discuss with me about anything related to desk setup, computer, or pheriperals, like Mechanical Keyboards, Mouse, and many more.
 <!--
 **raflyprdn/raflyprdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
